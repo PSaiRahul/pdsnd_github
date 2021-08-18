@@ -4,7 +4,7 @@
 Created Date - 08/17/2021
 
 ### Project Title
-Bikeshare Analysis Project
+Bikeshare Analysis Project - Git version
 
 ### Description
 This project analyses the bike share data for 3 different cities and can provide insights on different prospects
