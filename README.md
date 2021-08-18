@@ -18,3 +18,4 @@ The videos from the Nanodegree program
 Pandas Documentation
 Numpy documentation
 Git documentation
+to_datetime documentation
