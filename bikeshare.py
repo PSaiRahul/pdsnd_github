@@ -69,6 +69,7 @@ def load_data(city, month, day):
     df['Start Time'] = pd.to_datetime(df['Start Time'])
     
 # extract month and day of week from Start Time to create new columns
+# using the dt.month and dt.weekday_name
     df['month'] = df['Start Time'].dt.month
     df['day_of_week'] = df['Start Time'].dt.weekday_name
 # get user input for day of week (all, monday, tuesday, ... sunday)
